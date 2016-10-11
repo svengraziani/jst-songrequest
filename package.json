@@ -1,0 +1,27 @@
+{
+  "name": "jst-songrequest",
+  "version": "0.0.1",
+  "description": "Song Request Bot for Spotify WebHelper — Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svengraziani/jst-songrequest.git"
+  },
+  "keywords": [
+    "song",
+    "request",
+    "bot",
+    "spotify",
+    "hitbox",
+    "twitch"
+  ],
+  "author": "Sven Graziani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svengraziani/jst-songrequest/issues"
+  },
+  "homepage": "https://github.com/svengraziani/jst-songrequest#readme"
+}
