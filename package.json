@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/svengraziani/jst-songrequest/issues"
   },
-  "homepage": "https://github.com/svengraziani/jst-songrequest#readme"
+  "homepage": "https://github.com/svengraziani/jst-songrequest#readme",
+  "dependencies": {
+    "@angular/core": "^2.4.6"
+  }
 }
